@@ -1,8 +1,9 @@
 # duality/tmc studies
 
-See the dicussion in the wikipage
+- See the dicussion in the [wiki](https://github.com/JeffersonLab/duality/wiki)
 
-[wiki](https://github.com/JeffersonLab/duality/wiki)
+
+
 
 
 

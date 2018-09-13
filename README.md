@@ -2,7 +2,7 @@
 
 See the dicussion in the wikipage
 
-[[wiki|https://github.com/JeffersonLab/duality/wiki]]
+[wiki](https://github.com/JeffersonLab/duality/wiki)
 
 
 
